@@ -1,0 +1,4 @@
+#Wed Oct 19 16:24:40 CEST 2022
+base.0=/Users/talmatamarsophia/Downloads/Android/Exercices/hello_world/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
